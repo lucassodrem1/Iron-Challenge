@@ -68,7 +68,7 @@
                 }
                 else
                 {
-                    if (_lettersGroup[lastGroup].Length > 0) //para evitar erro com o espaco
+                    if (_lettersGroup[lastGroup].Length > 0)
                     {
                         if (counter > _lettersGroup[lastGroup].Length) 
                         {
